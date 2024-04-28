@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angela Maria</h1>
+<h1 align="center">Hi 👋, I'm Angela María</h1>
 <h3 align="center">A Skilled software developer in different programming languages motivated to find innovative and creative solutions.</h3>
 
 - 🌱 I’m currently learning **Python, Django, Tkinter, NumPy, SciPy, Pandas, Matplotlib, scikit-learn**
