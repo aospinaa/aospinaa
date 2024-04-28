@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aospinaa&label=Profile%20views&color=0e75b6&style=flat" alt="aospinaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aospinaa" alt="aospinaa" /></a> </p>
-
 - 🌱 I’m currently learning **Python, Django, Tkinter, NumPy, SciPy, Pandas, Matplotlib, scikit-learn**
 
 - 💬 Ask me about **C++, C, Java, Android Studio, Xcode, Flutter, Dart, Angular**
